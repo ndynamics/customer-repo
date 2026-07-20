@@ -1,0 +1,233 @@
+#######################################################################
+# NDYNAMICS Unauthorized Software Blacklist
+#
+# One software pattern per line.
+#
+# Matching is case-insensitive and uses partial string matching.
+#
+# Example:
+#   Office 2007
+# will match:
+#   Microsoft Office Professional 2007
+#   Microsoft Office Excel 2007
+#   Microsoft Office Outlook 2007
+#
+# Blank lines and lines beginning with # are ignored.
+#######################################################################
+
+#######################################################################
+# Archive / Backup
+#######################################################################
+
+Arcserve
+Backblaze
+Carbonite
+Crashplan
+Datto
+StorageCraft File Backup and Recovery
+
+#######################################################################
+# Remote Access / RMM
+#######################################################################
+
+Addigy
+Advanced Monitoring Agent GP
+AnyDesk
+Atera
+Auvik
+AutoElevate
+Chrome Remote Desktop
+Continuum
+EasyTech
+Glance
+GlanceGuest
+GoToMyPC
+ITSupport247
+Kaseya
+Labtech
+LogMeIn
+Meraki
+N-Able
+Ninja
+Pulseway
+Proxy PRO Host
+ScreenConnect
+Splashtop
+Syncro
+TeamViewer
+
+#######################################################################
+# Security Products
+#######################################################################
+
+Avast
+Comodo
+ESET NOD32
+Malwarebytes
+McAfee
+Norton
+Sophos
+Symantec Endpoint Protection
+Trend Micro
+Webroot
+
+#######################################################################
+# Unsupported Microsoft Office
+#######################################################################
+
+Office 2003
+Office 2007
+Office Professional 2010
+Office Professional Plus 2010
+Office Standard 2010
+Office Home and Business 2010
+Office Professional 2013
+Office Professional Plus 2013
+Office Standard 2013
+Office Home and Business 2013
+
+#######################################################################
+# Unsupported Microsoft Components
+#######################################################################
+
+Compatibility Pack for the 2007 Office System
+Microsoft Office Excel Viewer
+Microsoft Office Live Meeting
+Microsoft Office Small Business Components
+Microsoft Support and Recovery Assistant
+Windows Live
+Windows Search 4.0
+Windows Small Business Server 2008 Client
+
+#######################################################################
+# Adobe
+#######################################################################
+
+Adobe Acrobat 7
+Adobe Acrobat 8
+Adobe Acrobat 9
+Adobe Acrobat XI Standard
+Adobe Air
+Adobe Flash Player
+Adobe Reader 7
+Adobe Reader 8
+Adobe Reader 9
+Adobe Reader XI
+
+#######################################################################
+# Java
+#######################################################################
+
+Java(TM) 6
+Java 7
+
+#######################################################################
+# SQL Server
+#######################################################################
+
+SQL Server Compact 3.5
+SQL Server 2000
+SQL Server 2005
+SQL Server 2008
+
+#######################################################################
+# Browser Toolbars / Junkware
+#######################################################################
+
+Ask Toolbar
+Bing Bar
+Bing Rewards
+Coupon Printer
+Google Toolbar for Internet Explorer
+Yahoo! Toolbar
+
+#######################################################################
+# Consumer Cloud Storage
+#######################################################################
+
+Box Sync
+Dropbox
+
+#######################################################################
+# Utilities
+#######################################################################
+
+Belarc Advisor
+CCleaner
+Chocolatey
+Defraggler
+Evernote
+ForensiT Transwiz
+MagicDisc
+Nirsoft
+Nmap
+PDF Architect
+PDFCreator
+PingPlotter
+PRTG
+QuickTime
+RealPlayer
+Secunia PSI
+Toolbox
+WinPcap
+Zoom Workplace (32-bit)
+
+#######################################################################
+# OEM Software
+#######################################################################
+
+Dell Data Protection
+Dell Data Vault
+Dell Digital Delivery
+Dell Precision Optimizer
+Dell Protected Workspace
+Dell SupportAssist Remediation
+Dell System E-Support
+HP Support Assistant
+Shop for HP Supplies
+
+#######################################################################
+# Cisco
+#######################################################################
+
+Cisco EAP-FAST
+Cisco LEAP
+Cisco PEAP
+
+#######################################################################
+# Games / Entertainment
+#######################################################################
+
+After Dark
+Bejeweled
+Cake Mania
+Ceasar 3
+Chuzzle
+Hoyle
+OpenClaw
+Steam
+The Big Idea
+Webshots
+WildTangent
+
+#######################################################################
+# Miscellaneous
+#######################################################################
+
+Clean Master
+CORSAIR
+Dexterity Shared Components
+Diagnostics
+FMAudit
+Free YouTube to MP3 Converter
+join.me
+Microsoft Dynamics GP 2013
+Network Recording Player
+OpenOffice
+PC-FAXReceive
+RemoteSetup
+Spider4
+System Checkup
+Tobii
+torrent
+TP-Link Archer TX20U Nano Driver version 1.0.1.0
