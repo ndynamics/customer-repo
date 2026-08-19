@@ -83,7 +83,7 @@ Dell Inc.|Precision T1700|A28
 Dell Inc.|Precision WorkStation T3400|A14
 Dell Inc.|Precision T3610|A18
 Dell Inc.|Precision 3630 Tower|2.40.0
-Dell Inc.|Precision 3660|2.35.2
+Dell Inc.|Precision 3660|2.37.1
 
 # 5000 Series
 Dell Inc.|Precision Tower 5810|A29
@@ -128,7 +128,7 @@ Dell Inc.|Precision 5510|1.9.0
 Dell Inc.|Precision 7510|1.15.4
 Dell Inc.|Precision 7520|1.17.0
 Dell Inc.|Precision 7740|1.37.0
-Dell Inc.|Precision 7760|1.43.0
+Dell Inc.|Precision 7760|1.44.1
 
 # Vostro Laptops
 Dell Inc.|Dell System Vostro 3750|A14
